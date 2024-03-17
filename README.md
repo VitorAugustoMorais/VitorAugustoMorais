@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Vitor Augusto 🧑🏻‍💻
 
-[![Portfolio](https://img.shields.io/website?label=Portifolio&style=for-the-badge&url=http://alissonsouza.rf.gd/)](http://vitor.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitoraugustomorais)
 
 ![Vitor Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAugustoMorais&show_icons=true&theme=transparent)
