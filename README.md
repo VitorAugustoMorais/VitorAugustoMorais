@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor 🐺
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/vitoraugustomorais](https://www.linkedin.com/in/vitoraugustomorais/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoraugustomorais/)
 
 ![Vitor Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAugustoMorais&show_icons=true&theme=transparent)
 
